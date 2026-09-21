@@ -1,5 +1,3 @@
-# ssa-climate-forecasting
-Singular Spectrum Analysis for long-term climate forecasting | MSc dissertation, Cardiff University
 # Time Series Analysis and Forecasting with Applications in Climate Science
 
 MSc Data Science & Analytics dissertation, School of Mathematics, Cardiff University (Dec 2025)
